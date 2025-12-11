@@ -15,6 +15,8 @@ for fruit in fruits:
 subjects = ["Math", "Science", "History", "Art"]
 for subject in subjects:
     print(subject)
+    # print each subject, but stop at history
+
 # Challenge:
 # Use a for loop and range to print each subject along with its index:
 # Example output: "Subject 0: Math"
